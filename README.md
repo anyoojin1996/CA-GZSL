@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 # Datasets
 - We used the same dataset setting as [SDGZSL](https://drive.google.com/file/d/1KxFC6T_kGKCNx1JyX2FOaSimA0DOcU_I/view)
-- After downloading the zip file, unzip it in the `data` directory.
+- After downloading the zip file, unzip it in the `data` directory you just created above.
 
 # Training
 - AWA2
