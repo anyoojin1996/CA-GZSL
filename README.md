@@ -8,6 +8,9 @@ This is the official implementation of CA-GZSL.
 # Environment
 - Ubuntu 16.04
 - Python 3.7
+- PyTorch 1.7.0
+- 1 x RTX 2080 Ti
+- CUDA 10.1
 
 # Installation
 ```bash
