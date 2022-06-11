@@ -1,6 +1,6 @@
 # Content-Attribute Disentanglement for Generalized Zero-Shot Learning (CA-GZSL)
 
-This is the official implementation of CA-GZSL.
+This is the official implementation of [CA-GZSL](https://ieeexplore.ieee.org/document/9784824).
 <p align="center">
     <img src=".github/CA_GZSL.png" width="1024">
 </p>
