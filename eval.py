@@ -16,8 +16,7 @@ def eval(
     test_label,
     ntest,
     batch_size,
-    num_total_classes,
-    test_unseen_label=None
+    num_total_classes
 ):
     predicted_label = torch.zeros(
         (test_label.size()[0], num_total_classes),
