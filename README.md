@@ -112,7 +112,7 @@ python train.py \
 ```
 
 # Evaluation
-You can download the pretrained weights and check the training logs from this [link](https://drive.google.com/drive/folders/1yHiT_ddCKRleBqe6z_cFRdRRoVD27imP?usp=sharing
+You can download the pretrained weights and check the training logs from this [link](https://drive.google.com/drive/folders/1yHiT_ddCKRleBqe6z_cFRdRRoVD27imP?usp=sharing)
 - AWA2
 ```bash
 python eval.py \
