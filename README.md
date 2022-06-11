@@ -183,7 +183,7 @@ python eval.py \
 --dataset APY \
 --dataroot data/SDGZSL_data \
 --ckpt_path outputs/APY/Best_model_GZSL_APY_finetune_True_1200.pth \
---gpu 7 \
+--gpu 0 \
 --vae_weight 0.66 \
 --relation_weight 0.51 \
 --recon_weight 0.41 \
