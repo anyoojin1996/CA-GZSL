@@ -90,8 +90,7 @@ def main(opt):
         test_label=test_unseen_label,
         ntest=ntest,
         batch_size=batch_size,
-        num_total_classes=num_total_classes,
-        test_unseen_label=test_unseen_label
+        num_total_classes=num_total_classes
     )
 
     test_X = attr_encoder(dataset.test_seen_feature.to(opt.gpu))
@@ -105,8 +104,7 @@ def main(opt):
         test_label=test_seen_label,
         ntest=ntest,
         batch_size=batch_size,
-        num_total_classes=num_total_classes,
-        test_unseen_label=test_unseen_label
+        num_total_classes=num_total_classes
     )
 
     h = (2 * acc_u * acc_s) / (acc_u + acc_s)
