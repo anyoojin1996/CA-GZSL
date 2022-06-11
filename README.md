@@ -7,7 +7,7 @@ This is the official implementation of CA-GZSL.
 
 # Environment
 - Ubuntu 16.04
-- Python v3.7
+- Python 3.7
 
 # Installation
 ```bash
